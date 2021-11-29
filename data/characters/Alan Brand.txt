@@ -1,0 +1,41 @@
+{{Character
+|image = [[File:Alan brand.png|250px]]
+|name = Alan Brand
+|status = Alive 
+|job = Former [[CEO]] of Dunder Mifflin Inc.
+|only appearance = [[Shareholder Meeting]]
+|portrayed by = Alan Fudge
+|aka = N/A
+|gender = Male
+|actor = [[Alan Fudge]]
+}}'''Alan Brand''' was the CEO of [[Dunder Mifflin Paper Company]]. He was fired along with the rest of the Dunder Mifflin corporate staff when [[Sabre (company)|Sabre]] bought the company.
+
+==Season 1==
+In [[Hot Girl]], [[Jan Levinson]] mentions that she and Alan came up with an incentives program to increase sales by rewarding the top seller at each branch with a prize worth up to $1,000 (the actual prize is decided by each individual branch manager).
+
+==Season 2==
+In [[Performance Review]], Jan informs [[Michael Scott]] that she and Alan will conduct Michael's performance review over the phone from New York.
+
+==Season 5==
+In a deleted scene in [[Business Ethics]], [[Oscar Martinez]] mentions that Alan was paid $12 million in stock options for a year of substandard performance.
+
+==Season 6==
+In [[The Meeting]], [[David Wallace]] mentions that he and Alan came up with the idea of having Michael and [[Jim Halpert]] as the co-managers of [[Dunder Mifflin Scranton]].
+
+Alan makes his first and only appearance in the episode [[Shareholder Meeting]]. He meets Michael in person for the first time. Alan makes a poorly-received speech to the shareholders, who boo and insult him, and introduces Michael, the best branch manager, before answering questions. When Michael discovers that there is no plan to save the company, he and his employees steal Alan's limo, stating "Limos are for people who make the company money not lose millions and have no plan."
+
+In the episode [[Secret Santa]], Dunder Mifflin is bought out by [[Sabre (company)|Sabre]] and Alan is fired, along with David Wallace, [[Charles Miner]], and several other executives.
+
+==Trivia==
+*According to Michael, Alan is a fan of the New York Mets.
+
+==Mentioned in==
+*[[Business Ethics]] - deleted scene
+== Appearances==
+{{Appearances1|6=yes}}
+{{Appearances2|8=note}}
+{{Appearances6|2=note|10=yes|12=note}}
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Former employees]]
+[[Category:Males]]

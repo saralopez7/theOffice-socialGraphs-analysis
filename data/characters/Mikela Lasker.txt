@@ -1,0 +1,15 @@
+{{Character
+|name   = Mikela
+|image  = [[File:Mikela.jpg|250px]]
+|gender = Female
+|job    = High school student
+|First appearance = ''[[Scott's Tots]]''
+|actor  = [[Isheba Renee]]
+}} 
+Mikela is part of [[Michael Scott]]'s "[[Scott's Tots]]" group. At first she is thrilled that Michael is paying for her college, however, when he breaks his promise, she is very angry. She is played by Isheba Renee.
+
+==Episodes in==
+*"[[Scott's Tots]]"
+{{Appearances6|11=yes}}
+[[Category:Characters]]
+[[Category:Females]]

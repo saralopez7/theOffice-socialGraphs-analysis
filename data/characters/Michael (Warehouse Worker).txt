@@ -1,0 +1,15 @@
+{{Character
+|image = [[File:Warehouse_michael.png|200px]]
+|name = Michael
+|job = Warehouse Worker
+|seasons = [[Season 5|5]]
+|portrayed by = Lamont Ferrel
+}}
+
+Michael is the warehouse worker who gave [[Michael Scott]] a ride home, but whom Michael Scott doesn't remember, despite the two spending an hour together in traffic and having the same first name.
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Warehouse worker]]
+[[Category:Pages needing attention]]
+[[Category:Season 5 episodes]]
+[[Category:Season 5]]

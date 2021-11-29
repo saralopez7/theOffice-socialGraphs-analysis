@@ -1,0 +1,19 @@
+{{Character
+|image = [[Image:100_1269.jpeg|200px]]
+|name = Margaret
+|job = Landlady
+|only appearance = [[Chair Model]]
+|aka = N/A
+|gender = Female
+|actor = [[Brooke Dillman]]
+}}
+'''Margaret''' is a fictional character played by [[Brooke Dillman]] in the television series ''[[The Office|The Office]]''.
+
+==Season 4==
+Margaret is [[Pam Beesly|Pam]]'s landlady. Pam sets her up on a blind date out of pity for Michael, who is suffering from his break-up with [[Jan Levinson|Jan]]. She is very plain in appearance and appears to be in her mid 40's.
+
+Margaret and Michael meet at a coffee shop. Michael, disappointed that Margaret isn't "hot", ends up being rude to her during the date.
+
+== Appearances ==
+{{Appearances4|9=yes}}
+[[Category:Characters]]

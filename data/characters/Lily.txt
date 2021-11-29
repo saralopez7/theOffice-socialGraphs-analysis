@@ -1,0 +1,15 @@
+{{Character
+|image  = [[File:Lily.png]]
+|name   = Lily
+|gender = Female
+|job    = Character in pirated movie
+|first appearance=[[Stress Relief]]
+|portrayed by  = [[Cloris Leachman]]
+}}'''Lily''' is a character played by [[Wikipedia:Cloris Leachman|Cloris Leachman]] in the movie titled ''[[Mrs. Albert Hannaday]]'' that [[Pam Beesly|Pam]], [[Jim Halpert|Jim]] and [[Andy Bernard|Andy]] watch during the episode "[[Stress Relief]]". Lily is the grandmother of [[Jessica Alba]]'s character, [[Sophie]], and is the second woman in a love triangle with her granddaughter and [[Sam]], Sophie's boyfriend.
+
+==Appearances==
+*"[[Stress Relief]]"
+{{Appearances5|13=yes}}
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Pages needing attention]]

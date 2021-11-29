@@ -1,0 +1,19 @@
+{{Character|image = [[Image:DianeKelly.jpg|200px]]
+|name = Diane Kelly
+|job = Attorney
+|workplace = [[Dunder Mifflin Corporate Office|Dunder Mifflin Corporate]]
+|only appearance = [[The Deposition]]
+|portrayed by = [[Holly Maples]]
+|gender = Female
+|actor = [[Holly Maples]]
+}}'''Diane Kelly''', is a fictional character played by [[Holly Maples]] in the television series ''[[The Office|The Office]]''.
+
+== Season 4 ==
+
+Diane Kelly represents [[Dunder Mifflin Paper Company]] as their chief legal counsel during their lawsuit with [[Jan Levinson|Jan]] in [[The Deposition]].
+
+==Appearances==
+{{Appearances4|8=yes}}
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Females]]

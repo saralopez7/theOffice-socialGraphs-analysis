@@ -1,0 +1,24 @@
+{{Character|
+|image=[[Image:Grace.jpg|200px]]
+|name=Grace
+|gender=Female
+|job=Receptionist
+|first appearance = [[Conflict Resolution]]
+|actor=Vivianne Collins
+}}'''Grace''' is a receptionist at [[Dunder Mifflin Corporate Office]] in New York. She is played by Vivianne Collins.
+
+== Season 3 ==
+
+Grace appeared as an unnamed character in a deleted scene from the episode [[Valentine's Day]].
+
+In the episode [[The Negotiation]], a different woman was the receptionist.
+
+Grace answered the phone "Dunder Mifflin, this is Grace" in the episode [[The Job]].
+
+== Appeared in ==
+{{Appearances2|21=yes}}
+{{Appearances3|23=yes}}
+* [[Valentine's Day]] (deleted scene)
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Females]]

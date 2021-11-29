@@ -1,0 +1,14 @@
+{{Character|name = Nick Figaro
+|image = [[Image:NickFigaro.jpg|200px]]
+|gender = Male
+|job = Manager at the Lipophedrine Diet Pill Company
+|actor = [[Allan Wasserman]]
+}}'''Nicholas "Nick" Figaro''' is a fictional character on the television series ''[[The Office]]''. He is played by [[Allan Wasserman]].
+
+==Season 4==
+When [[Michael Scott|Michael]] is having money problems, he gets a second job at night with the [[ Lipophedrine Diet Pill Company]] doing sales. Nick Figaro is his boss who is not content with Michael's work habits and sales.
+
+== Appearances ==
+{{Appearances4|4=yes}}
+[[Category:Characters]]
+[[Category:Males]]

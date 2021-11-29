@@ -1,0 +1,53 @@
+{{Character|
+|image=[[Image:Senseiira.jpg|200px]]
+|name=Sensei Ira S. Glicksberg
+|gender=Male
+|job=Karate Instructor
+|first appearance = [[The Fight]]
+|actor=[[Lance Krall]]
+}}
+'''Sensei Ira S. Glicksberg''', is a character played by [[Lance Krall]] in ''[[The Office]]''.
+
+
+
+== Season 2 ==
+
+Ira is [[Dwight Schrute|Dwight]]'s karate sensei. He referees a sparring match between Dwight and [[Michael Scott|Michael]]. He says, "No points for pants."
+
+==Season 9==
+Sensei Ira is brought in as a candidate for the junior sales position at the Scranton branch for which Dwight brings in all his friends to be considered. He sits in the conference room with all the other people while waiting to be interviewed. He shows up in his martial arts uniform ([[Junior Salesman]]).
+
+In "[[Livin' the Dream]]", Dwight claims that Sensei Ira was unethical, having charged Dwight a total of $150,000 over 20 years without reaching a black belt. It typically takes five to six years to reach the first level black belt at goju ryu karate.
+
+== R&eacute;sum&eacute; ==
+
+In conjunction with the episode "[[Junior Salesman]]", NBC released [https://www.nbc.com/the-office/photos/resume-rejects/609546 Ira's r&eacute;sum&eacute;].
+
+{| style="width: 30em; border: solid 1px black"
+|-
+| colspan=2 align=right | <font size=+1>Ira S. Glicksberg</font><br>12450 La Salle Street<br>Scranton, PA 18503<br>(570) 555-1399
+|-
+| colspan=2 align=center | <u>Work Experience:</u>
+|-
+| valign=baseline nowrap style="padding-right: 1em"| 2007&ndash;Present || valign=baseline|VitaWorks HealthWorks, Travelling Sales associate
+|-
+| valign=baseline nowrap | 1997&ndash;Present || valign=baseline|GOJU GO RYE Dojo; Sensei, Owner, founder
+|-
+| valign=baseline nowrap | 1996 || valign=baseline|McMervyn's Discount gym equipment; Jr. Sales Associate
+|-
+| colspan=2 align=center | <u>Education:</u>
+|-
+| valign=baseline nowrap | 1986&ndash;2000 || valign=baseline|University of Pennsylvania<br>B.S., Communications
+|-
+| colspan=2 align=center | <u>Special Skills:</u>
+|-
+| colspan=2 | Mastery of Goju Ryu Karate, Judo, Taekwondo, Ninjitsu, Capoeira, Sumo (Before Weight Loss), Juggling, Training With Bo Staff, NunChucks, Throwing Stars
+|-
+| colspan=2 align=center | References Available Upon Request
+|-
+|}
+
+== Appearances ==
+{{Appearances2|6=yes}}
+{{Appearances9|13=yes|21=note}}
+[[Category:Characters]]

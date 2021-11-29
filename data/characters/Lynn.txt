@@ -1,0 +1,23 @@
+{{Character
+|image = [[File:Lynn.jpg|200px]]
+|name = Lynn
+|marital = [[Kevin Malone]] <small>(ex-boyfriend)</small>
+|job = Works at the Scranton Business Park
+|portrayed by = Lisa K. Wyatt
+|gender = Female
+|actor = [[Lisa K. Wyatt]]
+}} '''Lynn''' was [[Kevin Malone|Kevin]]'s girlfriend during [[Season 5]]. They had an odd relationship. She was played by [[Lisa K. Wyatt]].
+
+==Season 5==
+[[Kevin Malone|Kevin]] and Lynn bond at the Valentine's Day mixer. {{5x16}} Kevin later takes her out to dinner and a movie but comments on her breasts. {{5x17}}
+
+Kevin and Lynn make out at [[Café Disco (location)|Café Disco]]. In a deleted scene, it is revealed that she just wanted to be friends with him. {{5x25}}
+
+==Appearances==
+
+* "[[Blood Drive]]"
+* "[[Golden Ticket]]"
+* "[[Café Disco]]"
+{{Appearances5|17=yes|18=yes|25=yes}}
+[[Category:Characters]]
+[[Category:Females]]

@@ -1,0 +1,17 @@
+{{Character|
+|image=[[Image:LesterSchneider.jpg|200px]]
+|name=Lester Schneider
+|aka=N/A
+|gender=Male
+|job=Attorney
+|first appearance=[[The Deposition]]
+|actor=[[Patrick O'Connor]]
+}}'''Lester Schneider''' is a fictional character played by [[Patrick O'Connor]] on ''[[The Office|The Office]]''.
+
+==Season 4==
+Lester Schneider represents [[Jan Levinson]] as legal counsel during her lawsuit with [[Dunder Mifflin Paper Company|Dunder Mifflin]] in [[The Deposition]].
+
+==Appearances==
+{{Appearances4|8=yes}}
+[[Category:Characters]]
+[[Category:Males]]

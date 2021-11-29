@@ -1,0 +1,16 @@
+{{Character
+|image  = [[File:Sophie.png]]
+|name   = Sophie
+|gender = Female
+|job    = Character in pirated movie
+|first appearance=[[Stress Relief]]
+|portrayed by = [[Jessica Alba]]
+}}'''Sophie''' is a character played by [[Jessica Alba]] in the movie titled ''[[Mrs. Albert Hannaday]]'' that [[Pam Beesly|Pam]], [[Jim Halpert|Jim]], and [[Andy Bernard|Andy]] were watching during the episode [[Stress Relief]].
+
+In the movie, Sophie is the girlfriend of [[Sam]] and the granddaughter of [[Lily]].
+
+==Appearances==
+{{Appearances5|13=yes}}
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Pages needing attention]]

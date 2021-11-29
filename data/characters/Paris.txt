@@ -1,0 +1,19 @@
+{{Character|image = [[Image:Paris.jpg|200px]]
+|name = Paris
+|job = Sales Associate
+|workplace = Staples
+|only appearance = [[The Return]]
+|portrayed by = [[Yvette Nicole Brown]]
+|gender = Female
+|actor = [[Yvette Nicole Brown]]
+|aka = None
+}}{{Quote|text=I don’t like him, his giant head, or his beady little eyes. That’s all I got to say on the matter.|saidby=Paris}}
+'''Paris''', is a character played by [[Yvette Nicole Brown]] in the television series ''[[The Office|The Office]]''.
+
+== Season 3 ==
+Paris worked at [[Staples]] with [[Dwight Schrute|Dwight]]. She doesn't get along with him, explaining to the documentary crew that she doesn't "like him, his giant head, or his beady little eyes." She has a long commute to her Staples office, which is especially difficult in the snow. She has never heard of [[Dunder Mifflin]].
+
+==Appearances==
+{{Appearances3|13=yes}}
+[[Category:Characters]]
+[[Category:Females]]

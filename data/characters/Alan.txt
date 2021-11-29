@@ -1,0 +1,17 @@
+{{Character
+|image = [[Image:Alan.jpg|200px]]
+|name = Alan
+|job = Cartoonist
+|only appearance = [[The Convention]]
+|portrayed by = Robert Bagnell
+|gender = Male
+|actor = [[Robert Bagnell]]
+}}
+'''Alan''' is a character played by Robert Bagnell in the television series ''[[The Office|The Office]]''. Not to be confused with occasionally mentioned character [[Mentioned Characters#Allen|Allen]].
+
+== Season 3 ==
+Alan is [[Kelly Kapoor|Kelly]]'s neighbor. In the episode [[The Convention]], Kelly goes on a double date with [[Ryan Howard|Ryan]] and sets [[Pam Beesly|Pam]] up with Alan. Despite being a cartoonist, and therefore sharing an interest in art with Pam, they didn't click due to Alan being very dull.
+
+==Appearances==
+{{Appearances3||yes}}
+[[Category:Characters]]

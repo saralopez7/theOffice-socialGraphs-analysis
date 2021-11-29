@@ -1,0 +1,16 @@
+{{Character
+|image = jasmine.jpg
+|name = Jasmine Windsong
+|died = Age 28 
+|status = Dead
+|only appearance = [[Threat Level Midnight]]
+|seasons = 7
+|portrayed by = [[Jan Levinson]]
+}}'''Jasmine Windsong''' is one of characters in ''[[Threat Level Midnight]]'' portrayed by [[Jan Levinson]].
+
+==History==
+Jasmine Windsong was hired by [[Goldenface]] and sings at The Funky Cat, the hippest jazz club in town. She encountered [[Michael Scarn]] and he wondered if she knows about the location of Goldenface's hostages. She decided to give away her last performance by singing "The hostages are under the stadium" in reverse. Scarn caught the audio and played it until one of Goldenface's minions killed her.
+[[Category:Characters]]
+[[Category:Threat Level Midnight Characters]]
+[[Category:Females]]
+[[Category:Deceased characters]]

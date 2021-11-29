@@ -1,0 +1,14 @@
+{{Character
+|image = [[File:Polly.jpg|200px]]
+|name = Polly
+|job = Receptionist <small>(former)</small>
+|workplace = [[Dunder Mifflin Stamford]]
+|only appearance = [[Diwali]]
+|gender = Female
+|actor = Unknown
+}}'''Polly''' is a receptionist at the [[Dunder Mifflin Stamford|Stamford]] branch of [[Dunder Mifflin Paper Company|Dunder Mifflin]]. She is greeted by [[Jim Halpert]] when he arrives to work in the episode [[Diwali]].
+
+She is never again at the [[Scranton]] branch of Dunder Mifflin. Although, it is presumed that she was laid off along with the other staff.
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Females]]

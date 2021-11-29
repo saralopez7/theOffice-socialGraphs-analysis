@@ -1,0 +1,279 @@
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 500px;"
+|-
+! scope="col"|Characters
+! scope="col"|Season 1
+! scope="col"|Season 2
+! scope="col"|Season 3
+! scope="col"|Season 4
+! scope="col"|Season 5
+! scope="col"|Season 6
+! scope="col"|Season 7
+! scope="col"|Season 8
+! scope="col"|Season 9
+|-
+|[[Michael Scott]]
+|1st
+|1st
+|1st
+|1st
+|1st
+|1st
+|1st/4th
+| --
+|5th
+|-
+|[[Dwight Schrute]]
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd/1st
+|1st
+|1st
+|-
+|[[Jim Halpert]]
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|-
+|[[Pam Beesly]]
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|-
+|[[Ryan Howard]]
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|5th
+|-
+|[[Andy Bernard]]
+| --
+| --
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|2nd
+|-
+|[[Robert California]]
+| --
+| --
+| --
+| --
+| --
+| --
+| --
+|2nd
+| --
+|-
+|[[Angela Martin]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Creed Bratton]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Darryl Philbin]]
+|4th
+|4th
+|4th
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Kelly Kapoor]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|5th
+|-
+|[[Kevin Malone]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Meredith Palmer]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Oscar Martinez]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Phyllis Vance]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Roy Anderson]]
+|4th
+|3rd
+|3rd
+| --
+| --
+| --
+| --
+| --
+|5th
+|-
+|[[Toby Flenderson]]
+|3rd
+|3rd
+|3rd
+|3rd
+|4th
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Stanley Hudson]]
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Karen Filippelli]]
+| --
+| --
+|3rd
+|5th
+| --
+| --
+| --
+| --
+| --
+|-
+|[[Erin Hannon]]
+| --
+| --
+| --
+| --
+|4th
+|3rd
+|3rd
+|3rd
+|3rd
+|-
+|[[Nellie Bertram]]
+| --
+| --
+| --
+| --
+| --
+| --
+|5th
+|4th
+|3rd
+|-
+|[[Clark Green]]
+| --
+| --
+| --
+| --
+| --
+| --
+| --
+| --
+|3rd
+|-
+|[[Pete Miller]]
+| --
+| --
+| --
+| --
+| --
+| --
+| --
+| --
+|3rd
+|}
+1st=Main Character.
+
+2nd=Title Character but not Star.
+
+3rd=Important character but not Title Character.
+
+4th=Did not appear in large part of this season.
+
+5th=Guest
+
+--=Did not appear in season
+[[Category:Lists]]
+[[Category:Characters]]

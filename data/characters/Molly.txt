@@ -1,0 +1,10 @@
+{{Character
+|name = Molly
+|job = Secretary at The White Pages
+|only appearance = [[The Whale]]
+|portrayed by = [[Carrie Kemper]]
+|seasons = [[season 9|9]]
+}}
+'''Molly''' is [[Jan Levinson|Jan]]'s secretary at the [[wikipedia:Telephone directory|White Pages]]. She doesn't perform very well under Jan's aggressive and demanding leadership, but apparently doesn't have the courage to quit until she is encouraged by [[Dwight Schrute|Dwight]] in [[The Whale]].
+[[Category:Characters]]
+[[Category:Females]]

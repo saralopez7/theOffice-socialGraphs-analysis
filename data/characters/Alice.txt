@@ -1,0 +1,14 @@
+{{Character
+|image = [[File:Alice.png]]
+|name = Alice
+|job = Marketing Consultant
+|workplace = BCI Marketing Consultants
+[[Dunder Mifflin Scranton]]
+|only appearance = [[Moving On]]
+|portrayed by = Collette Wolfe
+}}'''Alice''' is [[Pete Miller]]'s ex-girlfriend.
+==Season 9==
+In the episode, [[Moving On]], [[Andy Bernard|Andy]] brings in Alice to get back at Pete for dating [[Erin Hannon|Erin]]. His plan ends up working, as Pete and Erin become quite distressed.
+[[Category:Characters]]
+[[Category:Females]]
+[[Category:Pages needing attention]]

@@ -1,0 +1,14 @@
+{{Character
+|image = [[File:ChristianSlater.jpg|250px]]
+|name = Christian Slater
+|job = Spokesperson for [[Sabre (company)|Sabre Printers]], Actor
+|only appearance = [[Sabre]]
+|seasons = 6
+|portrayed by = Christian Slater
+|gender = Male
+|actor = [[Christian Slater]]
+}}'''Christian Slater''' plays himself on [[NBC]]'s hit show, "[[The Office]]." He is the spokesperson for [[Sabre (company)|Sabre]] and appears in their commercials.
+
+==Appearances==
+* [[Sabre]].
+[[Category:Characters]]

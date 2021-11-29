@@ -1,0 +1,19 @@
+{{Character|
+|image=[[Image:Rolando.jpg|200px]]
+|name=Rolando
+|gender=Male
+|job=Receptionist ([[Dunder Mifflin Utica|Utica branch]])
+|actor=[[Adam Jamal Craig]]
+}}
+'''Rolando''' is a fictional character played by [[Adam Jamal Craig]] in the television series ''[[The Office|The Office]]''..
+
+==Season 4==
+
+Rolando is the receptionist at the [[Dunder Mifflin Utica|Utica branch]] of [[Dunder Mifflin Paper Company|Dunder Mifflin]]. In the episode [[Branch Wars]], Rolando tells [[Pam Beesly|Pam]] about the confrontation between [[Jim Halpert|Jim]] and [[Karen Filippelli|Karen]] after [[Michael Scott|Michael]] and [[Dwight Schrute|Dwight]] forced Jim to join them in their raid of the Utica branch.
+
+==Appearances==
+{{Appearances4|6=yes}}
+{{Appearances5|14=yes}}
+[[Category:Characters]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Males]]

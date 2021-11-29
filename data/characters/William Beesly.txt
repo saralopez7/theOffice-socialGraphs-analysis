@@ -1,0 +1,23 @@
+{{Character
+|name = William Beesly
+|image = [[File:WilliamBeesly.jpg|200px]]
+|gender = Male
+|born = March 1948 (age 73)
+|marital = [[Helene Beesly]] <small>(ex-wife)</small>
+[[Christy Kelly]] <small>(Much younger girlfriend)</small>
+|children = [[Pam Beesly|Pam Halpert]]
+[[Penny Beesly]]
+|first appearance = [[Stress Relief]]
+|last appearance = [[Niagara]]
+|portrayed by = [[Rick Overton]]
+|actor = [[Rick Overton]]
+}}'''William Beesly''' is [[Pam Beesly|Pam]] Beesly's father. He is played by [[Rick Overton]]. It is known that he is separated from Pam's mom, [[Helene]]. He has a much younger girlfriend, and while he introduces her to [[Jim Halpert|Jim]], Helene looks angry and jealous. Pam is openly saddened by her parent's separation.
+
+
+
+==Appearances==
+{{Appearances5|"weight loss"|yes}}
+{{Appearances6|"gossip"|"The Dundies"|yes}}
+[[Category:Characters]]
+[[Category:Males]]
+[[Category:Family members]]

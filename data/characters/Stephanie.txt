@@ -1,0 +1,19 @@
+{{Character
+|name = Stephanie
+|job = Secretary/Assistant
+|first appearance = [[New Boss]]
+|last appearance = [[Secret Santa]]
+|portrayed by = Suzanne Watson
+|seasons = [[Season 5|5]] and [[Season 6|6]]
+|count = 4
+}}
+'''Stephanie''' is [[David Wallace]]'s assistant or secretary at [[Dunder Mifflin Corporate Office|Corporate]]. She appears briefly during Episode The New Boss when Michael greets her, her voice can be heard in a number of episodes.
+
+==Appearances==
+{{Appearances5|18=yes}}
+{{Appearances6|9=yes|11=yes}}
+[[Category:Characters]]
+[[Category:Unseen Characters]]
+[[Category:Pages needing attention]]
+[[Category:Dunder Mifflin employees]]
+[[Category:Females]]

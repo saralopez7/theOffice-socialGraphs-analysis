@@ -1,0 +1,16 @@
+{{Character
+|image = [[File:EricWard.jpg|250px]]
+|name = Eric Ward
+|job = Investment Banker
+|workplace = [[Sabre]]
+|only appearance = [[The Banker]]
+|portrayed by = David Costabile
+|gender = Male
+|actor = David Costabile
+}}'''Eric Ward''' is [[The Banker|the investment banker]] for [[Sabre (company)|Sabre]]. He interviews [[Toby Flenderson]] about [[Dunder Mifflin Paper Company|Dunder Mifflin]] and seems to be irritated by [[Michael Scott]]. He is played by David Costabile.
+
+==Season 6==
+Eric Ward is insulted by [[Dwight Schrute]] and calls Michael a "character." He and Toby seem to have a standoff because Toby won't give him information about the company that might hurt the chance for the buyout. {{6x13}}
+[[Category:Characters]]
+[[Category:Actors]]
+[[Category:Males]]

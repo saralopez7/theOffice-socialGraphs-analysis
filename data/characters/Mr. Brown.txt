@@ -1,0 +1,25 @@
+{{Character|image = [[Image:Brown.jpg|200px]]
+|name = Mr. Brown
+|status = Alive
+|job = Diversity Sensitivity Trainer
+|workplace = Diversity Today
+|first appearance = [[Diversity Day]]
+|last appearance = [[Gay Witch Hunt]]
+|seasons = 1 3
+|portrayed by = [[Larry Wilmore]]
+|gender = Male
+|actor = [[Larry Wilmore]]
+}}'''Mr. Al Brown''' is a fictional character played by [[Larry Wilmore]] in the television series ''[[The Office|The Office]]''. His name could possibly be Al.
+
+==Season 1==
+
+Mr. Brown works as a representative for Diversity Today. He is sent to [[Dunder Mifflin Scranton]] to lead a diversity training seminar. It is revealed that the only reason he was sent there was due to [[Michael Scott|Michael]] performing the comedy of Chris Rock as if he were black himself.
+
+==Season 3==
+In the episode "[[Gay Witch Hunt]]," Mr. Brown is seen giving his Diversity Today lecture at the [[Dunder Mifflin Stamford|Stamford branch]] due to events that had taken place at the [[Dunder Mifflin Scranton|Scranton branch]].
+
+==Appearances==
+{{Appearances1||yes}}
+{{Appearances3|yes}}
+[[Category:Characters|Brown]]
+[[Category:Males]]
