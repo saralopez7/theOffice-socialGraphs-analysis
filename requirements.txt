@@ -1,0 +1,12 @@
+pandas
+networkx
+nltk
+powerlaw
+wordcloud
+python-louvain
+vaderSentiment
+Pillow
+plotly
+beautifulsoup4
+kaggle
+unidecode
